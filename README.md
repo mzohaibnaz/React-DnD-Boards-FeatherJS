@@ -69,6 +69,21 @@ const server = "http://localhost:3030";
 
 ```
 
+### Test Login Credentials
+
+These are just pre-registered users which i used for testing,
+you can create as many as you like using APIs, please check PostMan Collections
+
+```text
+// user test
+Email: test@test.com
+Password: test
+
+// user 2
+Email: mzohaibnaaz@gmail.com
+password: gmail
+```
+
 ### APis Routes (Postman Collection)
 
 Click to [Download](https://www.postman.com/collections/8453500e622d0f5a7c39) collection to get to know how to use project APIs.
